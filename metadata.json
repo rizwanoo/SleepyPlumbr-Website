@@ -1,0 +1,8 @@
+{
+  "name": "SleepyPlumbr — Josh JB Burleson",
+  "description": "Master Plumber, service and diagnostics specialist, and plumbing educator based in Columbia, Missouri.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
